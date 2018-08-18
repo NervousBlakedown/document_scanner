@@ -1,2 +1,4 @@
 # Document-Scanner
-Computer Vision-driven document scanner.
+Hello,
+
+This python script uses OpenCV to make your own document scanner.
